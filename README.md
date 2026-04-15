@@ -17,12 +17,7 @@
 1. Clone repository ini.
 2. Install dependencies: `npm install`
 3. Pastikan MongoDB berjalan (lokal atau Atlas).
-4. Buat file `.env` di root folder:
-   ```env
-   PORT=5000
-   DB_CONNECTION=mongodb://localhost:27017/
-   DB_NAME=demo_db
-   ```
+4. Buat file `.env` di root folder
 5. Jalankan server: npm run dev
 6. Server berjalan di localhost:5000
 
